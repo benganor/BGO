@@ -64,7 +64,7 @@
 - title: Relevant Skills
   type: nested_list
   contents:
-    - title: Neural Networks and Information Processing
+    - title: App design in LabVIEW / MATLAB
  #     items: 
  #       - Description 1.
  #       - Description 2.
