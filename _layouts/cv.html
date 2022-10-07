@@ -10,16 +10,15 @@ layout: default
           </header>
 
           <article>
-		  <div class="profile float-right">
-            {%- if page.cv_image %}
-              {%- assign profile_image_path = page.cv_image | prepend: 'assets/img/' -%}
-
-              {% include figure.html 
-              path=profile_image_path 
-              class="img-fluid z-depth-1 rounded"
-              alt=page.cv_image -%}
-            {% endif -%}
-          </div>
+			<div class="profile float-right">
+			  {%- if page.cv_image %}
+				{%- assign profile_image_path = page.cv_image | prepend: 'assets/img/' -%}
+				{% include figure.html 
+				path=profile_image_path 
+				class="img-fluid z-depth-1 rounded"
+				alt=page.cv_image -%}
+			  {% endif -%}
+			</div>
 		  
             <div class="cv">
               {% for entry in site.data.cv %}
