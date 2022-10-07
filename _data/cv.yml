@@ -14,7 +14,7 @@
       year: 2022
       description:
         - Edmond & Lily Safra Center for Brain Sciences
-        - Edmond & Lily Safra Center for Brain Sciences
+        - Neural Networks and Information Processing
 #        - title: Description 3.
  #         contents:
   #          - Sub-description 1.
@@ -61,17 +61,18 @@
 #      items: 
 #        - Max Planck Medal
 
-- title: Skills in brief
+- title: Relevant Skills
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Neural Networks and Information Processing
+ #     items: 
+ #       - Description 1.
+ #       - Description 2.
+    - title: E-phys / behavior rig construction
+    - title: Complex data analysis in MATLAB
+    - title: Small animal surgical procedures
+    - title: Multi-unit / single-unit / juxtacellular / intracellular in vivo cortical e-phys: anesthetized and awake
+    
 
 #- title: Other Interests
 #  type: list
