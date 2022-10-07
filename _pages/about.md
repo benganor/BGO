@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Neuroscientist</a>. Hebrew University of Jerusalem.
+subtitle: Neuroscientist. Hebrew University of Jerusalem.
 
 profile:
   align: right
@@ -20,4 +20,4 @@ I am trying to understand the **brain**.
 I have explored auditory plasticity in healthy and diseased brains and 
 examined cortical control over courtship-related ultrasonic vocalizations.
 
-## I am looking for a postdoctoral position to pursue my passion to understand the inner workings of the mind.
+I am looking for a postdoctoral position to pursue my passion to understand the inner workings of the mind.
