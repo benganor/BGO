@@ -5,6 +5,11 @@
       value: Benjamin Gan-Or
     - name: Current Location
       value: Jerusalem, Israel
+    - name: Mailing Address
+      value: The Goodman Building for Brain Sciences, Floor 1, South Wing, room 2103
+    - name: Languages
+      value: English, Hebrew, German, Spanish, Russian
+      
 
 - title: Education
   type: time_table
