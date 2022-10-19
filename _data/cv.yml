@@ -6,7 +6,9 @@
     - name: Current Location
       value: Jerusalem, Israel
     - name: Hometown
-      value: San Diego, California
+      value: San Diego, CA
+    - name: Languages
+      value: English, Hebrew, German, Spanish, Russian
     - name: Citizenship
       value: USA, Israel
       
