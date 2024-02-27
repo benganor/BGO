@@ -20,4 +20,4 @@ I am deeply curious about the **brain**. How does an ensemble of action potentia
 I have explored auditory plasticity in healthy and diseased brains and 
 examined cortical control over courtship-related ultrasonic vocalizations.
 
-I am searching for a company where I can use next-generation technology to further our understanding of the brain and solve real-world problems.
+I am searching for new roles where I can solve real-world problems with data-driven solutions.
